@@ -1,0 +1,21 @@
+                                        MVP PITCH
+
+    Problem to Solve:
+                    With this App, I wish to solve the problem of Games getting reviewed by the wrong people and people missing out on great
+        experiences because of it. This App will let you leave honest reviews about games that you have played and loved. Helping others who
+        may miss out on the experience of a lifetime because of negative revies by reporters, non-gamers or just the plain lame gamer who 
+        really shouldn't be playing anything but Fortnite. 
+
+        MVP:
+        - User can Create account
+        - User Can Login
+        - User can search for Games 
+        - User can post a review, including cover art, and description of game
+        - User can view other reviews and leave a star rating on the review
+        - User can save Games to a wishlist
+
+
+        Future Features:
+        - Users can follow each other
+        - User can post comments on a review
+        - User can find game(s) on Twitch/streaming platform
